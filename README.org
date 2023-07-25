@@ -1,0 +1,10 @@
+* cl-plumbing
+
+Some extra stream manipulation in Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/smithzvk/cl-plumbing.git   |
+| commit  | bd39e1a  |
+| systems | cl-plumbing |
+|---------+-------------------------------------------|
+
